@@ -1,5 +1,5 @@
 {
-  "name": "hexo-generator-baidusitemap",
+  "name": "@upupming/hexo-generator-baidu-sitemap",
   "version": "0.1.2",
   "description": "Baidu Sitemap generator plugin for Hexo",
   "main": "index",
